@@ -25,6 +25,7 @@ Enter data 3: 30
 Linked list:
 30
 20
+10
 🔮Future Improvements
 
 Delete nodes at head/tail
@@ -32,10 +33,7 @@ Delete nodes at head/tail
 Search & update
 
 Doubly linked list
+Crafted with ❤️ and passion for C & DSA.
 
 Made with ❤️ in C | Learn DSA the smart way.
-
-
-
-10
 
